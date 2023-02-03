@@ -10,7 +10,7 @@
 
 >I'm a student of systems engineer.
 
-- 🔭 I’m currently learning Java, Dart and Flutter.
+- 🔭 I’m currently learning Java, Html, Css, React, Javascrip, Dart and Flutter.
 
 <h1 align="center">
   My knowledges
@@ -21,6 +21,8 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=3%/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width=3%/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width=3%/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/html-original.svg" width=3%/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/css-original.svg" width=3%/></code> 
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=3%/></code>
 </div>
 
