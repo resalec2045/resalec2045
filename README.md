@@ -28,7 +28,6 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=3%/></code>
 </div>
 
-
 <div align="center">
   
   <h1> 
@@ -42,6 +41,16 @@
   <a href="https://github.com/resalec2045">
     <img align="center" height="218" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=resalec2045&theme=nord_dark">
   </a>
+  
+</div>
+
+<div align="center">
+  
+  <h1> 
+  My project portfolio.
+  </h1>
+  
+  https://astounding-starship-bdac09.netlify.app
   
 </div>
 
