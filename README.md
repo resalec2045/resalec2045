@@ -21,8 +21,8 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=3%/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width=3%/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width=3%/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/html-original.svg" width=3%/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/css-original.svg" width=3%/></code> 
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/html5-original.svg" width=3%/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/css3-original.svg" width=3%/></code> 
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=3%/></code>
 </div>
 
